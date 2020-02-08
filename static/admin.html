@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link rel="stylesheet" href="style.css">
+		<script src="util.js"></script>
+		<script src="jquery-3.4.1.min.js"></script>
+
+		<script type="text/javascript">
+			var key;
+
+			function refreshUsers() {
+				$.getJSON('/users', { key: key }, function(users) {
+					$('#users tbody').html('');
+					console.log('got users', users);
+					for(var i in users) {
+						$('#users tbody').append('<tr'+
+								' data-id="'+escapeHtml(users[i].id)+'"'+
+								' data-username="'+escapeHtml(users[i].username)+'"'+
+								' data-display-name="'+escapeHtml(users[i].display_name)+'"'+
+								' data-key="'+escapeHtml(users[i].key)+'"'+
+								' data-dlive-username="'+escapeHtml(users[i].dlive_username)+'"'+
+								' data-twitch-username="'+escapeHtml(users[i].twitch_username)+'"'+
+								' data-volume="'+escapeHtml(users[i].volume)+'"'+
+								' data-song-time-limit="'+escapeHtml(users[i].song_time_limit)+'"'+
+								'>'+
+								'<td>'+escapeHtml(users[i].id)+'</td>'+
+								'<td>'+escapeHtml(users[i].username)+'</td>'+
+								'<td>'+escapeHtml(users[i].display_name)+'</td>'+
+								'<td>'+escapeHtml(users[i].key)+'</td>'+
+								'<td>'+escapeHtml(users[i].dlive_username)+'</td>'+
+								'<td>'+escapeHtml(users[i].twitch_username)+'</td>'+
+								'<td>'+escapeHtml(users[i].volume)+'</td>'+
+								'<td>'+secondsToTime(users[i].song_time_limit)+'</td>'+
+								'<td><button type="button" onclick="editUser(this)">Edit</button></td>'+
+							'</tr>'
+						);
+					}
+				});
+			}
+
+			function editUser(btn) {
+				var data = $(btn).closest('tr').data();
+				$('[name=id]').val(data.id);
+				$('[name=username]').val(data.username);
+				$('[name=display_name]').val(data.displayName);
+				$('[name=key]').val(data.key);
+				$('[name=dlive_username]').val(data.dliveUsername);
+				$('[name=twitch_username]').val(data.twitchUsername);
+				$('[name=volume]').val(data.volume);
+				$('[name=song_time_limit]').val(data.songTimeLimit);
+			}
+
+			function saveUser() {
+				var data = {
+					id: $('[name=id]').val(),
+					username: $('[name=username]').val(),
+					displayName: $('[name=display_name]').val(),
+					key: $('[name=key]').val(),
+					dliveUsername: $('[name=dlive_username]').val(),
+					twitchUsername: $('[name=twitch_username]').val(),
+					volume: $('[name=volume]').val(),
+					songTimeLimit: $('[name=song_time_limit]').val(),
+				};
+				$.post('/users?key='+encodeURIComponent(key), data, function(result) {
+					console.log('saved user', result);
+					refreshUsers();
+				});
+			}
+
+			$(function() {
+				var url = new URLSearchParams(window.location.search);
+				key = url.get('key');
+				refreshUsers();
+			});
+		</script>
+	</head>
+	<body>
+		<h2>Users</h2>
+		<table id="users">
+			<thead>
+				<th>ID</th>
+				<th>Username</th>
+				<th>Display Name</th>
+				<th>Key</th>
+				<th>DLive Username</th>
+				<th>Twitch Username</th>
+				<th>Volume</th>
+				<th>Song Time Limit</th>
+				<th><a href="javascript:refreshUsers()">Refresh</a></th>
+			</thead>
+			<tbody>
+			</tbody>
+			<tfoot>
+				<tr>
+					<td><input type="text" name="id" autocomplete="off"></td>
+					<td><input type="text" name="username" autocomplete="off"></td>
+					<td><input type="text" name="display_name" autocomplete="off"></td>
+					<td><input type="text" name="key" autocomplete="off"></td>
+					<td><input type="text" name="dlive_username" autocomplete="off"></td>
+					<td><input type="text" name="twitch_username" autocomplete="off"></td>
+					<td><input type="text" name="volume" autocomplete="off"></td>
+					<td><input type="text" name="song_time_limit" autocomplete="off"></td>
+					<td><button type="button" onclick="saveUser()">Save user</button></td>
+				</tr>
+			</tfoot>
+		</table>
+	</body>
+</html>

@@ -1,0 +1,60 @@
+#messages {
+	font-family: monospace;
+	pointer-events: none;
+	z-index: 999999;
+	text-shadow: 0 0 #000000;
+	font-size: 10px;
+}
+#embed {
+	height: 200px;
+	overflow: hidden;
+}
+#soundCloudIframe {
+	height: 200px;
+}
+#controls {
+	text-align: center;
+}
+
+.song {
+	background: #10180b;
+	margin: 4px;
+}
+.song .song-thumbnail {
+	height: 100px;
+	width: 150px;
+	float: left;
+	line-height: 100px;
+	text-align: center;
+	margin-right: 4px;
+	background: black;
+	vertical-align: middle;
+}
+.song .song-thumbnail img {
+	max-width: 150px;
+	max-height: 100px;
+	vertical-align: middle;
+}
+.song .song-details {
+	padding: 4px;
+}
+.song .song-details .song-title {
+	font-weight: bold;
+}
+.song .song-details .song-delete {
+	float: right;
+	padding: 4px;
+	font-size: 12px;
+}
+
+.song button {
+	opacity: 0;
+}
+
+.song:hover button {
+	opacity: 1;
+}
+
+#curSong {
+	background: #5a8d3e;
+}

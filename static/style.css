@@ -1,0 +1,109 @@
+html, body {
+	background: black;
+	margin: 0;
+	padding: 0;
+	color: white;
+	font-family: Arial;
+	font-size: 16px;
+}
+
+h2 {
+	color: #5a8d3e;
+	margin: 0;
+	padding: 0;
+	text-align: center;
+}
+
+a {
+	color: white;
+}
+
+button {
+	background: #5a8d3e;
+	border: 0;
+	border-radius: 4px;
+	padding: 8px;
+	margin: 4px;
+}
+button:hover {
+	background: #76a15e;
+}
+button:active {
+	background: #406d27;
+}
+
+input[type=range] {
+	-webkit-appearance: none;
+	height: 8px;
+	background: #406d27;
+	outline: none;
+}
+
+input[type=range]:hover {
+	background: #5a8d3e;
+}
+
+input[type=range]::-webkit-slider-thumb {
+	-webkit-appearance: none;
+	appearance: none;
+	width: 16px;
+	height: 16px;
+	border-radius: 4px;
+	background: #5a8d3e;
+	cursor: pointer;
+}
+
+input[type=range]::-moz-range-thumb {
+	width: 16px;
+	height: 16px;
+	background: #5a8d3e;
+	cursor: pointer;
+}
+
+input[type=range]:hover::-moz-range-thumb {
+	background: #76a15e;
+}
+
+input[type=range]:hover::-webkit-slider-thumb {
+	background: #76a15e;
+}
+
+table {
+	width: 100%;
+	border-collapse: collapse;
+}
+table th {
+	text-align: left;
+}
+table th, table td {
+	padding: 4px;
+}
+table tr {
+	border-bottom: 1px solid #444;
+}
+
+.halfwidth-responsive {
+	width: 100%;
+	float: left;
+}
+@media (min-width: 700px) {
+	.halfwidth-responsive {
+		width: 50%;
+		float: left;
+	}
+}
+
+#messages {
+	font-family: monospace;
+	pointer-events: none;
+	z-index: 999999;
+	text-shadow: 0 0 #000000;
+	font-size: 10px;
+	position: absolute;
+	left: 0;
+	top: 0;
+	bottom: 0;
+	right: 0;
+	overflow: auto;
+	color: white
+}

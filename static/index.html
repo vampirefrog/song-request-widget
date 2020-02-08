@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link rel="stylesheet" href="style.css">
+		<script type="text/javascript">
+			window.onload = function() {
+				try {
+					var url = new URLSearchParams(window.location.search);
+					if(url.get('key')) {
+						document.getElementById('nokey').style.display = 'none';
+						document.getElementById('links').style.display = 'block';
+						var links = document.getElementsByTagName('A');
+						for(var i in links) {
+							links[i].href = links[i].href + '?key='+url.get('key');
+						}
+					} else {
+						document.getElementById('nokey').style.display = 'block';
+						document.getElementById('links').style.display = 'none';
+					}
+				} catch(e) {
+					console.error(e);
+				}
+			};
+		</script>
+	</head>
+	<body>
+		<h1>Vampi's streamer widgets</h1>
+		<div id="nokey">Please specify a key</div>
+		<ul id="links" style="display: none">
+			<li><a href="sr.html">Song Requests widget</a></li>
+			<li><a href="sradmin.html">Song Requests Custom Browser Dock for OBS</a></li>
+			<li><a href="title.html">Song Requests Title widget</a></li>
+			<li><a href="chat.html">Chat and TTS widget</a></li>
+		</ul>
+	</body>
+</html>

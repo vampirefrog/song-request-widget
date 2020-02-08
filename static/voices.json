@@ -1,0 +1,3321 @@
+{
+  "responsivevoices": [
+    {
+      "name": "UK English Female",
+      "flag": "gb",
+      "gender": "f",
+      "lang": "en-GB",
+      "voiceIDs": [
+        3,
+        7,
+        171,
+        201,
+        5,
+        1,
+        257,
+        286,
+        342,
+        258,
+        287,
+        343,
+        8
+      ]
+    },
+    {
+      "name": "UK English Male",
+      "flag": "gb",
+      "gender": "m",
+      "lang": "en-GB",
+      "voiceIDs": [
+        0,
+        277,
+        202,
+        75,
+        4,
+        2,
+        256,
+        285,
+        341,
+        159
+      ]
+    },
+    {
+      "name": "US English Female",
+      "flag": "us",
+      "gender": "f",
+      "lang": "en-US",
+      "voiceIDs": [
+        432,
+        433,
+        434,
+        39,
+        40,
+        41,
+        42,
+        383,
+        205,
+        204,
+        43,
+        173,
+        235,
+        283,
+        339,
+        408,
+        44
+      ]
+    },
+    {
+      "name": "US English Male",
+      "flag": "us",
+      "gender": "m",
+      "lang": "en-US",
+      "voiceIDs": [
+        431,
+        234,
+        282,
+        338,
+        236,
+        284,
+        340,
+        2,
+        4,
+        0,
+        75,
+        195,
+        169
+      ]
+    },
+    {
+      "name": "Arabic Male",
+      "flag": "ar",
+      "gender": "m",
+      "lang": "ar-SA",
+      "voiceIDs": [
+        96,
+        95,
+        97,
+        196,
+        388
+      ]
+    },
+    {
+      "name": "Arabic Female",
+      "flag": "ar",
+      "gender": "f",
+      "lang": "ar-SA",
+      "voiceIDs": [
+        98
+      ]
+    },
+    {
+      "name": "Armenian Male",
+      "flag": "hy",
+      "gender": "f",
+      "lang": "hy-AM",
+      "voiceIDs": [
+        99
+      ]
+    },
+    {
+      "name": "Australian Female",
+      "flag": "au",
+      "gender": "f",
+      "lang": "en-AU",
+      "voiceIDs": [
+        415,
+        276,
+        201,
+        87,
+        5,
+        88
+      ]
+    },
+    {
+      "name": "Australian Male",
+      "flag": "au",
+      "gender": "m",
+      "lang": "en-AU",
+      "voiceIDs": [
+        86,
+        386
+      ]
+    },
+    {
+      "name": "Bangla Bangladesh Female",
+      "flag": "bd",
+      "gender": "f",
+      "lang": "bn-BD",
+      "voiceIDs": [
+        435
+      ]
+    },
+    {
+      "name": "Bangla Bangladesh Male",
+      "flag": "bd",
+      "gender": "m",
+      "lang": "bn-BD",
+      "voiceIDs": [
+        410,
+        436
+      ]
+    },
+    {
+      "name": "Bangla India Female",
+      "flag": "bd",
+      "gender": "f",
+      "lang": "bn-IN",
+      "voiceIDs": [
+        447
+      ]
+    },
+    {
+      "name": "Bangla India Male",
+      "flag": "bd",
+      "gender": "m",
+      "lang": "bn-IN",
+      "voiceIDs": [
+        411,
+        448
+      ]
+    },
+    {
+      "name": "Brazilian Portuguese Female",
+      "flag": "br",
+      "gender": "f",
+      "lang": "pt-BR",
+      "voiceIDs": [
+        245,
+        124,
+        123,
+        125,
+        186,
+        223,
+        126
+      ]
+    },
+    {
+      "name": "Brazilian Portuguese Male",
+      "flag": "br",
+      "gender": "m",
+      "lang": "pt-BR",
+      "voiceIDs": [
+        315,
+        332,
+        371,
+        399
+      ]
+    },
+    {
+      "name": "Chinese Female",
+      "flag": "cn",
+      "gender": "f",
+      "lang": "zh-CN",
+      "voiceIDs": [
+        249,
+        58,
+        59,
+        380,
+        281,
+        231,
+        155,
+        60,
+        191,
+        268,
+        297,
+        353,
+        269,
+        298,
+        354,
+        409,
+        61
+      ]
+    },
+    {
+      "name": "Chinese Male",
+      "flag": "cn",
+      "gender": "m",
+      "lang": "zh-CN",
+      "voiceIDs": [
+        317,
+        334,
+        373,
+        389
+      ]
+    },
+    {
+      "name": "Chinese (Hong Kong) Female",
+      "flag": "hk",
+      "gender": "f",
+      "lang": "zh-HK",
+      "voiceIDs": [
+        192,
+        193,
+        232,
+        250,
+        251,
+        270,
+        299,
+        355,
+        409,
+        444,
+        252
+      ]
+    },
+    {
+      "name": "Chinese (Hong Kong) Male",
+      "flag": "hk",
+      "gender": "m",
+      "lang": "zh-HK",
+      "voiceIDs": [
+        430,
+        318,
+        335,
+        374,
+        445,
+        390
+      ]
+    },
+    {
+      "name": "Chinese Taiwan Female",
+      "flag": "tw",
+      "gender": "f",
+      "lang": "zh-TW",
+      "voiceIDs": [
+        194,
+        233,
+        253,
+        254,
+        305,
+        322,
+        361,
+        384,
+        319,
+        336,
+        375,
+        409,
+        255
+      ]
+    },
+    {
+      "name": "Chinese Taiwan Male",
+      "flag": "tw",
+      "gender": "m",
+      "lang": "zh-TW",
+      "voiceIDs": [
+        320,
+        337,
+        376,
+        391
+      ]
+    },
+    {
+      "name": "Czech Female",
+      "flag": "cz",
+      "gender": "f",
+      "lang": "cs-CZ",
+      "voiceIDs": [
+        412,
+        101,
+        100,
+        102,
+        197,
+        103
+      ]
+    },
+    {
+      "name": "Czech Male",
+      "flag": "cz",
+      "gender": "m",
+      "lang": "cs-CZ",
+      "voiceIDs": [
+        161
+      ]
+    },
+    {
+      "name": "Danish Female",
+      "flag": "dk",
+      "gender": "f",
+      "lang": "da-DK",
+      "voiceIDs": [
+        413,
+        105,
+        104,
+        106,
+        198,
+        107
+      ]
+    },
+    {
+      "name": "Danish Male",
+      "flag": "da",
+      "gender": "m",
+      "lang": "da-DK",
+      "voiceIDs": [
+        162
+      ]
+    },
+    {
+      "name": "Deutsch Female",
+      "flag": "de",
+      "gender": "f",
+      "lang": "de-DE",
+      "voiceIDs": [
+        27,
+        28,
+        29,
+        30,
+        78,
+        170,
+        275,
+        199,
+        31,
+        261,
+        290,
+        346,
+        262,
+        291,
+        347,
+        32
+      ]
+    },
+    {
+      "name": "Deutsch Male",
+      "flag": "de",
+      "gender": "m",
+      "lang": "de-DE",
+      "voiceIDs": [
+        307,
+        324,
+        363,
+        377,
+        393
+      ]
+    },
+    {
+      "name": "Dutch Female",
+      "flag": "nl",
+      "gender": "f",
+      "lang": "nl-NL",
+      "voiceIDs": [
+        243,
+        219,
+        84,
+        157,
+        158,
+        184,
+        45
+      ]
+    },
+    {
+      "name": "Dutch Male",
+      "flag": "nl",
+      "gender": "m",
+      "lang": "nl-NL",
+      "voiceIDs": [
+        157,
+        220,
+        407
+      ]
+    },
+    {
+      "name": "Estonian Male",
+      "flag": "ee",
+      "gender": "m",
+      "lang": "et-EE",
+      "voiceIDs": [
+        416,
+        446
+      ]
+    },
+    {
+      "name": "Filipino Female",
+      "flag": "ph",
+      "gender": "f",
+      "lang": "fil-PH",
+      "voiceIDs": [
+        418,
+        437
+      ]
+    },
+    {
+      "name": "Finnish Female",
+      "flag": "fi",
+      "gender": "f",
+      "lang": "fi-FI",
+      "voiceIDs": [
+        417,
+        90,
+        89,
+        91,
+        209,
+        92
+      ]
+    },
+    {
+      "name": "Finnish Male",
+      "flag": "fi",
+      "gender": "m",
+      "lang": "fi-FI",
+      "voiceIDs": [
+        160
+      ]
+    },
+    {
+      "name": "French Female",
+      "flag": "fr",
+      "gender": "f",
+      "lang": "fr-FR",
+      "voiceIDs": [
+        240,
+        21,
+        22,
+        23,
+        77,
+        178,
+        279,
+        210,
+        266,
+        295,
+        351,
+        304,
+        321,
+        360,
+        26
+      ]
+    },
+    {
+      "name": "French Male",
+      "flag": "fr",
+      "gender": "m",
+      "lang": "fr-FR",
+      "voiceIDs": [
+        311,
+        328,
+        367,
+        378,
+        392
+      ]
+    },
+    {
+      "name": "French Canadian Female",
+      "flag": "ca",
+      "gender": "f",
+      "lang": "fr-CA",
+      "voiceIDs": [
+        419,
+        210,
+        449
+      ]
+    },
+    {
+      "name": "French Canadian Male",
+      "flag": "ca",
+      "gender": "m",
+      "lang": "fr-CA",
+      "voiceIDs": [
+        450
+      ]
+    },
+    {
+      "name": "Greek Female",
+      "flag": "gr",
+      "gender": "f",
+      "lang": "el-GR",
+      "voiceIDs": [
+        414,
+        62,
+        63,
+        80,
+        200,
+        64
+      ]
+    },
+    {
+      "name": "Greek Male",
+      "flag": "gr",
+      "gender": "m",
+      "lang": "el-GR",
+      "voiceIDs": [
+        163
+      ]
+    },
+    {
+      "name": "Hindi Female",
+      "flag": "hi",
+      "gender": "f",
+      "lang": "hi-IN",
+      "voiceIDs": [
+        247,
+        66,
+        154,
+        179,
+        213,
+        259,
+        288,
+        344,
+        67
+      ]
+    },
+    {
+      "name": "Hindi Male",
+      "flag": "hi",
+      "gender": "m",
+      "lang": "hi-IN",
+      "voiceIDs": [
+        394
+      ]
+    },
+    {
+      "name": "Hungarian Female",
+      "flag": "hu",
+      "gender": "f",
+      "lang": "hu-HU",
+      "voiceIDs": [
+        420,
+        9,
+        10,
+        81,
+        214,
+        11
+      ]
+    },
+    {
+      "name": "Hungarian Male",
+      "flag": "hu",
+      "gender": "m",
+      "lang": "hu-HU",
+      "voiceIDs": [
+        164
+      ]
+    },
+    {
+      "name": "Indonesian Female",
+      "flag": "id",
+      "gender": "f",
+      "lang": "id-ID",
+      "voiceIDs": [
+        241,
+        111,
+        112,
+        180,
+        215,
+        113
+      ]
+    },
+    {
+      "name": "Indonesian Male",
+      "flag": "id",
+      "gender": "m",
+      "lang": "id-ID",
+      "voiceIDs": [
+        395
+      ]
+    },
+    {
+      "name": "Italian Female",
+      "flag": "it",
+      "gender": "f",
+      "lang": "it-IT",
+      "voiceIDs": [
+        242,
+        33,
+        34,
+        35,
+        36,
+        37,
+        79,
+        181,
+        216,
+        271,
+        300,
+        356,
+        38
+      ]
+    },
+    {
+      "name": "Italian Male",
+      "flag": "it",
+      "gender": "m",
+      "lang": "it-IT",
+      "voiceIDs": [
+        312,
+        329,
+        368,
+        406
+      ]
+    },
+    {
+      "name": "Japanese Female",
+      "flag": "jp",
+      "gender": "f",
+      "lang": "ja-JP",
+      "voiceIDs": [
+        51,
+        280,
+        217,
+        52,
+        153,
+        182,
+        273,
+        302,
+        358,
+        274,
+        303,
+        359,
+        53
+      ]
+    },
+    {
+      "name": "Japanese Male",
+      "flag": "jp",
+      "gender": "m",
+      "lang": "ja-JP",
+      "voiceIDs": [
+        248,
+        50,
+        313,
+        330,
+        369,
+        396
+      ]
+    },
+    {
+      "name": "Korean Female",
+      "flag": "kr",
+      "gender": "f",
+      "lang": "ko-KR",
+      "voiceIDs": [
+        54,
+        55,
+        56,
+        156,
+        183,
+        218,
+        306,
+        323,
+        362,
+        384,
+        57
+      ]
+    },
+    {
+      "name": "Korean Male",
+      "flag": "kr",
+      "gender": "m",
+      "lang": "ko-KR",
+      "voiceIDs": [
+        397
+      ]
+    },
+    {
+      "name": "Latin Female",
+      "flag": "va",
+      "gender": "f",
+      "lang": "la",
+      "voiceIDs": [
+        114
+      ],
+      "deprecated": true
+    },
+    {
+      "name": "Latin Male",
+      "flag": "va",
+      "gender": "m",
+      "lang": "la",
+      "voiceIDs": [
+        165
+      ]
+    },
+    {
+      "name": "Nepali",
+      "flag": "np",
+      "gender": "f",
+      "lang": "ne-NP",
+      "voiceIDs": [
+        423,
+        441
+      ]
+    },
+    {
+      "name": "Norwegian Female",
+      "flag": "no",
+      "gender": "f",
+      "lang": "nb-NO",
+      "voiceIDs": [
+        422,
+        72,
+        73,
+        221,
+        74
+      ]
+    },
+    {
+      "name": "Norwegian Male",
+      "flag": "no",
+      "gender": "m",
+      "lang": "nb-NO",
+      "voiceIDs": [
+        166
+      ]
+    },
+    {
+      "name": "Polish Female",
+      "flag": "pl",
+      "gender": "f",
+      "lang": "pl-PL",
+      "voiceIDs": [
+        244,
+        120,
+        119,
+        121,
+        185,
+        222,
+        267,
+        296,
+        352,
+        122
+      ]
+    },
+    {
+      "name": "Polish Male",
+      "flag": "pl",
+      "gender": "m",
+      "lang": "pl-PL",
+      "voiceIDs": [
+        314,
+        331,
+        370,
+        398
+      ]
+    },
+    {
+      "name": "Portuguese Female",
+      "flag": "br",
+      "gender": "f",
+      "lang": "pt-BR",
+      "voiceIDs": [
+        128,
+        127,
+        129,
+        187,
+        224,
+        272,
+        301,
+        357,
+        130
+      ]
+    },
+    {
+      "name": "Portuguese Male",
+      "flag": "br",
+      "gender": "m",
+      "lang": "pt-BR",
+      "voiceIDs": [
+        400
+      ]
+    },
+    {
+      "name": "Romanian Female",
+      "flag": "ro",
+      "gender": "f",
+      "lang": "ro-RO",
+      "voiceIDs": [
+        424,
+        151,
+        150,
+        152,
+        225,
+        46
+      ]
+    },
+    {
+      "name": "Russian Female",
+      "flag": "ru",
+      "gender": "f",
+      "lang": "ru-RU",
+      "voiceIDs": [
+        246,
+        47,
+        48,
+        83,
+        188,
+        226,
+        260,
+        289,
+        345,
+        49
+      ]
+    },
+    {
+      "name": "Russian Male",
+      "flag": "ru",
+      "gender": "m",
+      "lang": "ru-RU",
+      "voiceIDs": [
+        316,
+        333,
+        372,
+        387
+      ]
+    },
+    {
+      "name": "Sinhala",
+      "flag": "lk",
+      "gender": "f",
+      "lang": "si-LK",
+      "voiceIDs": [
+        425,
+        442
+      ]
+    },
+    {
+      "name": "Slovak Female",
+      "flag": "sk",
+      "gender": "f",
+      "lang": "sk-SK",
+      "voiceIDs": [
+        426,
+        133,
+        132,
+        134,
+        227,
+        135
+      ]
+    },
+    {
+      "name": "Slovak Male",
+      "flag": "sk",
+      "gender": "m",
+      "lang": "sk-SK",
+      "voiceIDs": [
+        167
+      ],
+      "deprecated": true
+    },
+    {
+      "name": "Spanish Female",
+      "flag": "es",
+      "gender": "f",
+      "lang": "es-ES",
+      "voiceIDs": [
+        19,
+        238,
+        16,
+        17,
+        18,
+        20,
+        76,
+        174,
+        207,
+        263,
+        292,
+        348,
+        264,
+        293,
+        349,
+        15
+      ]
+    },
+    {
+      "name": "Spanish Male",
+      "flag": "es",
+      "gender": "m",
+      "lang": "es-ES",
+      "voiceIDs": [
+        309,
+        326,
+        365,
+        401
+      ]
+    },
+    {
+      "name": "Spanish Latin American Female",
+      "flag": "es",
+      "gender": "f",
+      "lang": "es-MX",
+      "voiceIDs": [
+        239,
+        137,
+        136,
+        138,
+        175,
+        208,
+        265,
+        294,
+        350,
+        139
+      ]
+    },
+    {
+      "name": "Spanish Latin American Male",
+      "flag": "es",
+      "gender": "m",
+      "lang": "es-MX",
+      "voiceIDs": [
+        136,
+        310,
+        327,
+        366,
+        402
+      ]
+    },
+    {
+      "name": "Swedish Female",
+      "flag": "sv",
+      "gender": "f",
+      "lang": "sv-SE",
+      "voiceIDs": [
+        427,
+        85,
+        149,
+        228,
+        65
+      ]
+    },
+    {
+      "name": "Swedish Male",
+      "flag": "sv",
+      "gender": "m",
+      "lang": "sv-SE",
+      "voiceIDs": [
+        148,
+        168
+      ]
+    },
+    {
+      "name": "Tamil Female",
+      "flag": "hi",
+      "gender": "m",
+      "lang": "hi-IN",
+      "voiceIDs": [
+        451
+      ]
+    },
+    {
+      "name": "Tamil Male",
+      "flag": "hi",
+      "gender": "m",
+      "lang": "hi-IN",
+      "voiceIDs": [
+        141
+      ]
+    },
+    {
+      "name": "Thai Female",
+      "flag": "th",
+      "gender": "f",
+      "lang": "th-TH",
+      "voiceIDs": [
+        143,
+        142,
+        144,
+        189,
+        229,
+        145
+      ]
+    },
+    {
+      "name": "Thai Male",
+      "flag": "th",
+      "gender": "m",
+      "lang": "th-TH",
+      "voiceIDs": [
+        403
+      ]
+    },
+    {
+      "name": "Turkish Female",
+      "flag": "tr",
+      "gender": "f",
+      "lang": "tr-TR",
+      "voiceIDs": [
+        69,
+        70,
+        82,
+        190,
+        230,
+        71
+      ]
+    },
+    {
+      "name": "Turkish Male",
+      "flag": "tr",
+      "gender": "m",
+      "lang": "tr-TR",
+      "voiceIDs": [
+        404
+      ]
+    },
+    {
+      "name": "Ukrainian Female",
+      "flag": "ua",
+      "gender": "f",
+      "lang": "uk-UA",
+      "voiceIDs": [
+        428,
+        443
+      ]
+    },
+    {
+      "name": "Vietnamese Female",
+      "flag": "vi",
+      "gender": "f",
+      "lang": "vi-VN",
+      "voiceIDs": [
+        429,
+        405
+      ]
+    },
+    {
+      "name": "Vietnamese Male",
+      "flag": "vi",
+      "gender": "m",
+      "lang": "vi-VN",
+      "voiceIDs": [
+        146
+      ]
+    },
+    {
+      "name": "Afrikaans Male",
+      "flag": "af",
+      "gender": "m",
+      "lang": "af-ZA",
+      "voiceIDs": [
+        93
+      ]
+    },
+    {
+      "name": "Albanian Male",
+      "flag": "sq",
+      "gender": "m",
+      "lang": "sq-AL",
+      "voiceIDs": [
+        94
+      ]
+    },
+    {
+      "name": "Bosnian Male",
+      "flag": "bs",
+      "gender": "m",
+      "lang": "bs",
+      "voiceIDs": [
+        14
+      ]
+    },
+    {
+      "name": "Catalan Male",
+      "flag": "catalonia",
+      "gender": "m",
+      "lang": "ca-ES",
+      "voiceIDs": [
+        68
+      ]
+    },
+    {
+      "name": "Croatian Male",
+      "flag": "hr",
+      "gender": "m",
+      "lang": "hr-HR",
+      "voiceIDs": [
+        13
+      ]
+    },
+    {
+      "name": "Esperanto Male",
+      "flag": "eo",
+      "gender": "m",
+      "lang": "eo",
+      "voiceIDs": [
+        108
+      ]
+    },
+    {
+      "name": "Icelandic Male",
+      "flag": "is",
+      "gender": "m",
+      "lang": "is-IS",
+      "voiceIDs": [
+        110
+      ]
+    },
+    {
+      "name": "Latvian Male",
+      "flag": "lv",
+      "gender": "m",
+      "lang": "lv-LV",
+      "voiceIDs": [
+        115
+      ]
+    },
+    {
+      "name": "Macedonian Male",
+      "flag": "mk",
+      "gender": "m",
+      "lang": "mk-MK",
+      "voiceIDs": [
+        116
+      ]
+    },
+    {
+      "name": "Moldavian Female",
+      "flag": "md",
+      "gender": "f",
+      "lang": "md",
+      "voiceIDs": [
+        117
+      ]
+    },
+    {
+      "name": "Moldavian Male",
+      "flag": "md",
+      "gender": "m",
+      "lang": "md",
+      "voiceIDs": [
+        117
+      ],
+      "deprecated": true
+    },
+    {
+      "name": "Montenegrin Male",
+      "flag": "me",
+      "gender": "m",
+      "lang": "me",
+      "voiceIDs": [
+        118
+      ]
+    },
+    {
+      "name": "Serbian Male",
+      "flag": "sr",
+      "gender": "m",
+      "lang": "sr-RS",
+      "voiceIDs": [
+        12
+      ]
+    },
+    {
+      "name": "Serbo-Croatian Male",
+      "flag": "hr",
+      "gender": "m",
+      "lang": "hr-HR",
+      "voiceIDs": [
+        131
+      ]
+    },
+    {
+      "name": "Swahili Male",
+      "flag": "sw",
+      "gender": "m",
+      "lang": "sw-KE",
+      "voiceIDs": [
+        140
+      ]
+    },
+    {
+      "name": "Welsh Male",
+      "flag": "cy",
+      "gender": "m",
+      "lang": "cy",
+      "voiceIDs": [
+        147
+      ]
+    },
+    {
+      "name": "Fallback UK Female",
+      "flag": "gb",
+      "gender": "f",
+      "lang": "en-GB",
+      "voiceIDs": [
+        8
+      ]
+    }
+  ],
+  "voicecollection": [
+    {
+      "name": "Google UK English Male"
+    },
+    {
+      "name": "Agnes"
+    },
+    {
+      "name": "Daniel Compact"
+    },
+    {
+      "name": "Google UK English Female"
+    },
+    {
+      "name": "en-GB",
+      "rate": 0.25,
+      "pitch": 1
+    },
+    {
+      "name": "en-AU",
+      "rate": 0.25,
+      "pitch": 1
+    },
+    {
+      "name": "inglés Reino Unido"
+    },
+    {
+      "name": "English United Kingdom"
+    },
+    {
+      "name": "Fallback en-GB Female",
+      "lang": "en-GB",
+      "fallbackvoice": true,
+      "service": "g1",
+      "gender": "female"
+    },
+    {
+      "name": "Eszter Compact"
+    },
+    {
+      "name": "hu-HU",
+      "rate": 0.4
+    },
+    {
+      "name": "Fallback Hungarian Female",
+      "lang": "hu",
+      "fallbackvoice": true,
+      "service": "g1"
+    },
+    {
+      "name": "Fallback Serbian Male",
+      "lang": "sr",
+      "fallbackvoice": true,
+      "service": "g1",
+      "gender": "male"
+    },
+    {
+      "name": "Fallback Croatian Male",
+      "lang": "hr",
+      "fallbackvoice": true,
+      "service": "g1",
+      "gender": "male"
+    },
+    {
+      "name": "Fallback Bosnian Male",
+      "lang": "bs",
+      "fallbackvoice": true,
+      "service": "g1",
+      "gender": "male"
+    },
+    {
+      "name": "Fallback Spanish Female",
+      "lang": "es",
+      "fallbackvoice": true,
+      "service": "g1",
+      "gender": "female"
+    },
+    {
+      "name": "Spanish Spain"
+    },
+    {
+      "name": "español España"
+    },
+    {
+      "name": "Diego Compact",
+      "rate": 0.3
+    },
+    {
+      "name": "Google Español"
+    },
+    {
+      "name": "es-ES",
+      "rate": 0.2
+    },
+    {
+      "name": "Google Français"
+    },
+    {
+      "name": "French France"
+    },
+    {
+      "name": "francés Francia"
+    },
+    {
+      "name": "Virginie Compact",
+      "rate": 0.5
+    },
+    {
+      "name": "fr-FR",
+      "rate": 0.25
+    },
+    {
+      "name": "Fallback French Female",
+      "lang": "fr",
+      "fallbackvoice": true,
+      "service": "g1",
+      "gender": "female"
+    },
+    {
+      "name": "Google Deutsch"
+    },
+    {
+      "name": "German Germany"
+    },
+    {
+      "name": "alemán Alemania"
+    },
+    {
+      "name": "Yannick Compact",
+      "rate": 0.5
+    },
+    {
+      "name": "de-DE",
+      "rate": 0.25
+    },
+    {
+      "name": "Fallback Deutsch Female",
+      "lang": "de",
+      "fallbackvoice": true,
+      "service": "g1",
+      "gender": "female"
+    },
+    {
+      "name": "Google Italiano"
+    },
+    {
+      "name": "Italian Italy"
+    },
+    {
+      "name": "italiano Italia"
+    },
+    {
+      "name": "Paolo Compact",
+      "rate": 0.5
+    },
+    {
+      "name": "it-IT",
+      "rate": 0.25
+    },
+    {
+      "name": "Fallback Italian Female",
+      "lang": "it",
+      "fallbackvoice": true,
+      "service": "g1",
+      "gender": "female"
+    },
+    {
+      "name": "Google US English",
+      "timerSpeed": 1
+    },
+    {
+      "name": "English United States"
+    },
+    {
+      "name": "inglés Estados Unidos"
+    },
+    {
+      "name": "Vicki"
+    },
+    {
+      "name": "en-US",
+      "rate": 0.2,
+      "pitch": 1,
+      "timerSpeed": 1.3
+    },
+    {
+      "name": "Fallback US English",
+      "lang": "en-US",
+      "fallbackvoice": true,
+      "timerSpeed": 0,
+      "service": "g1",
+      "gender": "female"
+    },
+    {
+      "name": "Fallback Dutch Female",
+      "lang": "nl",
+      "fallbackvoice": true,
+      "timerSpeed": 0,
+      "service": "g1",
+      "gender": "female"
+    },
+    {
+      "name": "Fallback Romanian",
+      "lang": "ro",
+      "fallbackvoice": true,
+      "service": "g1",
+      "gender": "female"
+    },
+    {
+      "name": "Milena Compact"
+    },
+    {
+      "name": "ru-RU",
+      "rate": 0.25
+    },
+    {
+      "name": "Fallback Russian",
+      "lang": "ru",
+      "fallbackvoice": true,
+      "service": "g1",
+      "gender": "female"
+    },
+    {
+      "name": "Google 日本人",
+      "timerSpeed": 1
+    },
+    {
+      "name": "Kyoko Compact"
+    },
+    {
+      "name": "ja-JP",
+      "rate": 0.25
+    },
+    {
+      "name": "Fallback Japanese Female",
+      "lang": "ja",
+      "fallbackvoice": true,
+      "service": "g1",
+      "gender": "female"
+    },
+    {
+      "name": "Google 한국의",
+      "timerSpeed": 1
+    },
+    {
+      "name": "Narae Compact"
+    },
+    {
+      "name": "ko-KR",
+      "rate": 0.25
+    },
+    {
+      "name": "Fallback Korean Female",
+      "lang": "ko",
+      "fallbackvoice": true,
+      "service": "g1",
+      "gender": "female"
+    },
+    {
+      "name": "Google 中国的",
+      "timerSpeed": 1
+    },
+    {
+      "name": "Ting-Ting Compact"
+    },
+    {
+      "name": "zh-CN",
+      "rate": 0.25
+    },
+    {
+      "name": "Fallback Chinese",
+      "lang": "zh-CN",
+      "fallbackvoice": true,
+      "service": "g1",
+      "gender": "female"
+    },
+    {
+      "name": "Alexandros Compact"
+    },
+    {
+      "name": "el-GR",
+      "rate": 0.25
+    },
+    {
+      "name": "Fallback Greek",
+      "lang": "el",
+      "fallbackvoice": true,
+      "service": "g2",
+      "gender": "female"
+    },
+    {
+      "name": "Fallback Swedish",
+      "lang": "sv",
+      "fallbackvoice": true,
+      "service": "g2",
+      "gender": "female"
+    },
+    {
+      "name": "hi-IN",
+      "rate": 0.25
+    },
+    {
+      "name": "Fallback Hindi Female",
+      "lang": "hi",
+      "fallbackvoice": true,
+      "service": "g1",
+      "gender": "female"
+    },
+    {
+      "name": "Fallback Catalan",
+      "lang": "ca",
+      "fallbackvoice": true,
+      "service": "g1",
+      "gender": "male"
+    },
+    {
+      "name": "Aylin Compact"
+    },
+    {
+      "name": "tr-TR",
+      "rate": 0.25
+    },
+    {
+      "name": "Fallback Turkish",
+      "lang": "tr",
+      "fallbackvoice": true,
+      "service": "g1",
+      "gender": "female"
+    },
+    {
+      "name": "Stine Compact"
+    },
+    {
+      "name": "no-NO",
+      "rate": 0.25
+    },
+    {
+      "name": "Fallback Norwegian",
+      "lang": "no",
+      "fallbackvoice": true,
+      "service": "g1",
+      "gender": "female"
+    },
+    {
+      "name": "Daniel"
+    },
+    {
+      "name": "Monica"
+    },
+    {
+      "name": "Amelie"
+    },
+    {
+      "name": "Anna"
+    },
+    {
+      "name": "Alice"
+    },
+    {
+      "name": "Melina"
+    },
+    {
+      "name": "Mariska"
+    },
+    {
+      "name": "Yelda"
+    },
+    {
+      "name": "Milena"
+    },
+    {
+      "name": "Xander"
+    },
+    {
+      "name": "Alva"
+    },
+    {
+      "name": "Lee Compact"
+    },
+    {
+      "name": "Karen"
+    },
+    {
+      "name": "Fallback Australian Female",
+      "lang": "en-AU",
+      "fallbackvoice": true,
+      "service": "g1",
+      "gender": "female"
+    },
+    {
+      "name": "Mikko Compact"
+    },
+    {
+      "name": "Satu"
+    },
+    {
+      "name": "fi-FI",
+      "rate": 0.25
+    },
+    {
+      "name": "Fallback Finnish",
+      "lang": "fi",
+      "fallbackvoice": true,
+      "service": "g1",
+      "gender": "female"
+    },
+    {
+      "name": "Fallback Afrikans",
+      "lang": "af",
+      "fallbackvoice": true,
+      "service": "g1",
+      "gender": "male"
+    },
+    {
+      "name": "Fallback Albanian",
+      "lang": "sq",
+      "fallbackvoice": true,
+      "service": "g1",
+      "gender": "male"
+    },
+    {
+      "name": "Maged Compact"
+    },
+    {
+      "name": "Tarik"
+    },
+    {
+      "name": "ar-SA",
+      "rate": 0.25
+    },
+    {
+      "name": "Fallback Arabic",
+      "lang": "ar",
+      "fallbackvoice": true,
+      "service": "g1",
+      "gender": "female"
+    },
+    {
+      "name": "Fallback Armenian",
+      "lang": "hy",
+      "fallbackvoice": true,
+      "service": "g1",
+      "gender": "male"
+    },
+    {
+      "name": "Zuzana Compact"
+    },
+    {
+      "name": "Zuzana"
+    },
+    {
+      "name": "cs-CZ",
+      "rate": 0.25
+    },
+    {
+      "name": "Fallback Czech",
+      "lang": "cs",
+      "fallbackvoice": true,
+      "service": "g1",
+      "gender": "female"
+    },
+    {
+      "name": "Ida Compact"
+    },
+    {
+      "name": "Sara"
+    },
+    {
+      "name": "da-DK",
+      "rate": 0.25
+    },
+    {
+      "name": "Fallback Danish",
+      "lang": "da",
+      "fallbackvoice": true,
+      "service": "g1",
+      "gender": "female"
+    },
+    {
+      "name": "Fallback Esperanto",
+      "lang": "eo",
+      "fallbackvoice": true,
+      "service": "g1",
+      "gender": "male"
+    },
+    {
+      "name": "Fallback Haitian Creole",
+      "lang": "ht",
+      "fallbackvoice": true
+    },
+    {
+      "name": "Fallback Icelandic",
+      "lang": "is",
+      "fallbackvoice": true,
+      "service": "g1",
+      "gender": "male"
+    },
+    {
+      "name": "Damayanti"
+    },
+    {
+      "name": "id-ID",
+      "rate": 0.25
+    },
+    {
+      "name": "Fallback Indonesian Female",
+      "lang": "id",
+      "fallbackvoice": true,
+      "service": "g1",
+      "gender": "female"
+    },
+    {
+      "name": "Fallback Latin Female",
+      "lang": "la",
+      "fallbackvoice": true,
+      "service": "g2",
+      "gender": "female"
+    },
+    {
+      "name": "Fallback Latvian Male",
+      "lang": "lv",
+      "fallbackvoice": true,
+      "service": "g1",
+      "gender": "male"
+    },
+    {
+      "name": "Fallback Macedonian Male",
+      "lang": "mk",
+      "fallbackvoice": true,
+      "service": "g1",
+      "gender": "male"
+    },
+    {
+      "name": "Fallback Moldavian Female",
+      "lang": "mo",
+      "fallbackvoice": true,
+      "service": "g2",
+      "gender": "female"
+    },
+    {
+      "name": "Fallback Montenegrin Male",
+      "lang": "sr-ME",
+      "fallbackvoice": true,
+      "service": "g1",
+      "gender": "male"
+    },
+    {
+      "name": "Agata Compact"
+    },
+    {
+      "name": "Zosia"
+    },
+    {
+      "name": "pl-PL",
+      "rate": 0.25
+    },
+    {
+      "name": "Fallback Polish Female",
+      "lang": "pl",
+      "fallbackvoice": true,
+      "service": "g1",
+      "gender": "female"
+    },
+    {
+      "name": "Raquel Compact"
+    },
+    {
+      "name": "Luciana"
+    },
+    {
+      "name": "pt-BR",
+      "rate": 0.25
+    },
+    {
+      "name": "Fallback Brazilian Portuguese Female",
+      "lang": "pt-BR",
+      "fallbackvoice": true,
+      "service": "g1",
+      "gender": "female"
+    },
+    {
+      "name": "Joana Compact"
+    },
+    {
+      "name": "Joana"
+    },
+    {
+      "name": "pt-PT",
+      "rate": 0.25
+    },
+    {
+      "name": "Fallback Portuguese",
+      "lang": "pt-PT",
+      "fallbackvoice": true,
+      "service": "g1",
+      "gender": "female"
+    },
+    {
+      "name": "Fallback Serbo-Croation",
+      "lang": "sh",
+      "fallbackvoice": true,
+      "service": "g2",
+      "gender": "male"
+    },
+    {
+      "name": "Laura Compact"
+    },
+    {
+      "name": "Laura"
+    },
+    {
+      "name": "sk-SK",
+      "rate": 0.25
+    },
+    {
+      "name": "Fallback Slovak",
+      "lang": "sk",
+      "fallbackvoice": true,
+      "service": "g1",
+      "gender": "female"
+    },
+    {
+      "name": "Javier Compact"
+    },
+    {
+      "name": "Paulina"
+    },
+    {
+      "name": "es-MX",
+      "rate": 0.25
+    },
+    {
+      "name": "Fallback Spanish (Latin American) Female",
+      "lang": "es-419",
+      "fallbackvoice": true,
+      "service": "g1",
+      "gender": "female"
+    },
+    {
+      "name": "Fallback Swahili",
+      "lang": "sw",
+      "fallbackvoice": true,
+      "service": "g1",
+      "gender": "male"
+    },
+    {
+      "name": "Fallback Tamil",
+      "lang": "ta",
+      "fallbackvoice": true,
+      "service": "g1",
+      "gender": "male"
+    },
+    {
+      "name": "Narisa Compact"
+    },
+    {
+      "name": "Kanya"
+    },
+    {
+      "name": "th-TH",
+      "rate": 0.25
+    },
+    {
+      "name": "Fallback Thai Female",
+      "lang": "th",
+      "fallbackvoice": true,
+      "service": "g1",
+      "gender": "female"
+    },
+    {
+      "name": "Fallback Vietnamese Male",
+      "lang": "vi",
+      "fallbackvoice": true,
+      "service": "g3",
+      "gender": "male"
+    },
+    {
+      "name": "Fallback Welsh",
+      "lang": "cy",
+      "fallbackvoice": true,
+      "service": "g1",
+      "gender": "male"
+    },
+    {
+      "name": "Oskar Compact"
+    },
+    {
+      "name": "sv-SE",
+      "rate": 0.25
+    },
+    {
+      "name": "Simona Compact"
+    },
+    {
+      "name": "Ioana"
+    },
+    {
+      "name": "ro-RO",
+      "rate": 0.25
+    },
+    {
+      "name": "Kyoko"
+    },
+    {
+      "name": "Lekha"
+    },
+    {
+      "name": "Ting-Ting"
+    },
+    {
+      "name": "Yuna"
+    },
+    {
+      "name": "Xander Compact"
+    },
+    {
+      "name": "nl-NL",
+      "rate": 0.25
+    },
+    {
+      "name": "Fallback UK English Male",
+      "lang": "en-GB",
+      "fallbackvoice": true,
+      "service": "g1",
+      "voicename": "rjs",
+      "gender": "male"
+    },
+    {
+      "name": "Finnish Male",
+      "lang": "fi",
+      "fallbackvoice": true,
+      "service": "g3",
+      "voicename": "",
+      "gender": "male"
+    },
+    {
+      "name": "Czech Male",
+      "lang": "cs",
+      "fallbackvoice": true,
+      "service": "g3",
+      "voicename": "",
+      "gender": "male"
+    },
+    {
+      "name": "Danish Male",
+      "lang": "da",
+      "fallbackvoice": true,
+      "service": "g3",
+      "voicename": "",
+      "gender": "male"
+    },
+    {
+      "name": "Greek Male",
+      "lang": "el",
+      "fallbackvoice": true,
+      "service": "g3",
+      "voicename": "",
+      "gender": "male"
+    },
+    {
+      "name": "Hungarian Male",
+      "lang": "hu",
+      "fallbackvoice": true,
+      "service": "g3",
+      "voicename": "",
+      "gender": "male"
+    },
+    {
+      "name": "Latin Male",
+      "lang": "la",
+      "fallbackvoice": true,
+      "service": "g1",
+      "voicename": "",
+      "gender": "male"
+    },
+    {
+      "name": "Norwegian Male",
+      "lang": "no",
+      "fallbackvoice": true,
+      "service": "g3",
+      "voicename": "",
+      "gender": "male"
+    },
+    {
+      "name": "Slovak Male",
+      "lang": "sk",
+      "fallbackvoice": true,
+      "service": "g3",
+      "voicename": "",
+      "gender": "male"
+    },
+    {
+      "name": "Swedish Male",
+      "lang": "sv",
+      "fallbackvoice": true,
+      "service": "g3",
+      "voicename": "",
+      "gender": "male"
+    },
+    {
+      "name": "Fallback US English Male",
+      "lang": "en-US",
+      "fallbackvoice": true,
+      "service": "g3",
+      "voicename": "",
+      "gender": "male"
+    },
+    {
+      "name": "German Germany",
+      "lang": "de_DE"
+    },
+    {
+      "name": "English United Kingdom",
+      "lang": "en_GB"
+    },
+    {
+      "name": "English India",
+      "lang": "en_IN"
+    },
+    {
+      "name": "English United States",
+      "lang": "en_US"
+    },
+    {
+      "name": "Spanish Spain",
+      "lang": "es_ES"
+    },
+    {
+      "name": "Spanish Mexico",
+      "lang": "es_MX"
+    },
+    {
+      "name": "Spanish United States",
+      "lang": "es_US"
+    },
+    {
+      "name": "French Belgium",
+      "lang": "fr_BE"
+    },
+    {
+      "name": "French France",
+      "lang": "fr_FR"
+    },
+    {
+      "name": "Hindi India",
+      "lang": "hi_IN"
+    },
+    {
+      "name": "Indonesian Indonesia",
+      "lang": "in_ID"
+    },
+    {
+      "name": "Italian Italy",
+      "lang": "it_IT"
+    },
+    {
+      "name": "Japanese Japan",
+      "lang": "ja_JP"
+    },
+    {
+      "name": "Korean South Korea",
+      "lang": "ko_KR"
+    },
+    {
+      "name": "Dutch Netherlands",
+      "lang": "nl_NL"
+    },
+    {
+      "name": "Polish Poland",
+      "lang": "pl_PL"
+    },
+    {
+      "name": "Portuguese Brazil",
+      "lang": "pt_BR"
+    },
+    {
+      "name": "Portuguese Portugal",
+      "lang": "pt_PT"
+    },
+    {
+      "name": "Russian Russia",
+      "lang": "ru_RU"
+    },
+    {
+      "name": "Thai Thailand",
+      "lang": "th_TH"
+    },
+    {
+      "name": "Turkish Turkey",
+      "lang": "tr_TR"
+    },
+    {
+      "name": "Chinese China",
+      "lang": "zh_CN_#Hans"
+    },
+    {
+      "name": "Chinese Hong Kong",
+      "lang": "zh_HK_#Hans"
+    },
+    {
+      "name": "Chinese Hong Kong",
+      "lang": "zh_HK_#Hant"
+    },
+    {
+      "name": "Chinese Taiwan",
+      "lang": "zh_TW_#Hant"
+    },
+    {
+      "name": "Alex"
+    },
+    {
+      "name": "Maged",
+      "lang": "ar-SA"
+    },
+    {
+      "name": "Zuzana",
+      "lang": "cs-CZ"
+    },
+    {
+      "name": "Sara",
+      "lang": "da-DK"
+    },
+    {
+      "name": "Anna",
+      "lang": "de-DE"
+    },
+    {
+      "name": "Melina",
+      "lang": "el-GR"
+    },
+    {
+      "name": "Karen",
+      "lang": "en-AU"
+    },
+    {
+      "name": "Daniel",
+      "lang": "en-GB"
+    },
+    {
+      "name": "Moira",
+      "lang": "en-IE"
+    },
+    {
+      "name": "Samantha (Enhanced)",
+      "lang": "en-US"
+    },
+    {
+      "name": "Samantha",
+      "lang": "en-US"
+    },
+    {
+      "name": "Tessa",
+      "lang": "en-ZA"
+    },
+    {
+      "name": "Monica",
+      "lang": "es-ES"
+    },
+    {
+      "name": "Paulina",
+      "lang": "es-MX"
+    },
+    {
+      "name": "Satu",
+      "lang": "fi-FI"
+    },
+    {
+      "name": "Amelie",
+      "lang": "fr-CA"
+    },
+    {
+      "name": "Thomas",
+      "lang": "fr-FR"
+    },
+    {
+      "name": "Carmit",
+      "lang": "he-IL"
+    },
+    {
+      "name": "Lekha",
+      "lang": "hi-IN"
+    },
+    {
+      "name": "Mariska",
+      "lang": "hu-HU"
+    },
+    {
+      "name": "Damayanti",
+      "lang": "id-ID"
+    },
+    {
+      "name": "Alice",
+      "lang": "it-IT"
+    },
+    {
+      "name": "Kyoko",
+      "lang": "ja-JP"
+    },
+    {
+      "name": "Yuna",
+      "lang": "ko-KR"
+    },
+    {
+      "name": "Ellen",
+      "lang": "nl-BE"
+    },
+    {
+      "name": "Xander",
+      "lang": "nl-NL"
+    },
+    {
+      "name": "Nora",
+      "lang": "no-NO"
+    },
+    {
+      "name": "Zosia",
+      "lang": "pl-PL"
+    },
+    {
+      "name": "Luciana",
+      "lang": "pt-BR"
+    },
+    {
+      "name": "Joana",
+      "lang": "pt-PT"
+    },
+    {
+      "name": "Ioana",
+      "lang": "ro-RO"
+    },
+    {
+      "name": "Milena",
+      "lang": "ru-RU"
+    },
+    {
+      "name": "Laura",
+      "lang": "sk-SK"
+    },
+    {
+      "name": "Alva",
+      "lang": "sv-SE"
+    },
+    {
+      "name": "Kanya",
+      "lang": "th-TH"
+    },
+    {
+      "name": "Yelda",
+      "lang": "tr-TR"
+    },
+    {
+      "name": "Ting-Ting",
+      "lang": "zh-CN"
+    },
+    {
+      "name": "Sin-Ji",
+      "lang": "zh-HK"
+    },
+    {
+      "name": "Mei-Jia",
+      "lang": "zh-TW"
+    },
+    {
+      "name": "Microsoft David Mobile - English (United States)",
+      "lang": "en-US"
+    },
+    {
+      "name": "Microsoft Zira Mobile - English (United States)",
+      "lang": "en-US"
+    },
+    {
+      "name": "Microsoft Mark Mobile - English (United States)",
+      "lang": "en-US"
+    },
+    {
+      "name": "native",
+      "lang": ""
+    },
+    {
+      "name": "Google español"
+    },
+    {
+      "name": "Google español de Estados Unidos"
+    },
+    {
+      "name": "Google français"
+    },
+    {
+      "name": "Google Bahasa Indonesia"
+    },
+    {
+      "name": "Google italiano"
+    },
+    {
+      "name": "Google Nederlands"
+    },
+    {
+      "name": "Google polski"
+    },
+    {
+      "name": "Google português do Brasil"
+    },
+    {
+      "name": "Google русский"
+    },
+    {
+      "name": "Google हिन्दी"
+    },
+    {
+      "name": "Google 日本語"
+    },
+    {
+      "name": "Google 普通话（中国大陆）"
+    },
+    {
+      "name": "Google 粤語（香港）"
+    },
+    {
+      "name": "zh-HK",
+      "rate": 0.25
+    },
+    {
+      "name": "Fallback Chinese (Hong Kong) Female",
+      "lang": "zh-HK",
+      "fallbackvoice": true,
+      "service": "g1",
+      "gender": "female"
+    },
+    {
+      "name": "Google 粤語（香港）"
+    },
+    {
+      "name": "zh-TW",
+      "rate": 0.25
+    },
+    {
+      "name": "Fallback Chinese (Taiwan) Female",
+      "lang": "zh-TW",
+      "fallbackvoice": true,
+      "service": "g1",
+      "gender": "female"
+    },
+    {
+      "name": "Microsoft George Mobile - English (United Kingdom)",
+      "lang": "en-GB"
+    },
+    {
+      "name": "Microsoft Susan Mobile - English (United Kingdom)",
+      "lang": "en-GB"
+    },
+    {
+      "name": "Microsoft Hazel Mobile - English (United Kingdom)",
+      "lang": "en-GB"
+    },
+    {
+      "name": "Microsoft Heera Mobile - English (India)",
+      "lang": "en-In"
+    },
+    {
+      "name": "Microsoft Irina Mobile - Russian (Russia)",
+      "lang": "ru-RU"
+    },
+    {
+      "name": "Microsoft Hedda Mobile - German (Germany)",
+      "lang": "de-DE"
+    },
+    {
+      "name": "Microsoft Katja Mobile - German (Germany)",
+      "lang": "de-DE"
+    },
+    {
+      "name": "Microsoft Helena Mobile - Spanish (Spain)",
+      "lang": "es-ES"
+    },
+    {
+      "name": "Microsoft Laura Mobile - Spanish (Spain)",
+      "lang": "es-ES"
+    },
+    {
+      "name": "Microsoft Sabina Mobile - Spanish (Mexico)",
+      "lang": "es-MX"
+    },
+    {
+      "name": "Microsoft Julie Mobile - French (France)",
+      "lang": "fr-FR"
+    },
+    {
+      "name": "Microsoft Paulina Mobile - Polish (Poland)",
+      "lang": "pl-PL"
+    },
+    {
+      "name": "Microsoft Huihui Mobile - Chinese (Simplified, PRC)",
+      "lang": "zh-CN"
+    },
+    {
+      "name": "Microsoft Yaoyao Mobile - Chinese (Simplified, PRC)",
+      "lang": "zh-CN"
+    },
+    {
+      "name": "Microsoft Tracy Mobile - Chinese (Traditional, Hong Kong S.A.R.)",
+      "lang": "zh-CN"
+    },
+    {
+      "name": "Microsoft Elsa Mobile - Italian (Italy)",
+      "lang": "it-IT"
+    },
+    {
+      "name": "Microsoft Maria Mobile - Portuguese (Brazil)",
+      "lang": "pt-BR"
+    },
+    {
+      "name": "Microsoft Ayumi Mobile - Japanese (Japan)",
+      "lang": "ja-JP"
+    },
+    {
+      "name": "Microsoft Haruka Mobile - Japanese (Japan)",
+      "lang": "ja-JP"
+    },
+    {
+      "name": "Helena",
+      "lang": "de-DE"
+    },
+    {
+      "name": "Catherine",
+      "lang": "en-AU"
+    },
+    {
+      "name": "Arthur",
+      "lang": "en-GB"
+    },
+    {
+      "name": "Martha",
+      "lang": "en-GB"
+    },
+    {
+      "name": "Marie",
+      "lang": "fr-FR"
+    },
+    {
+      "name": "O-ren",
+      "lang": "ja-JP"
+    },
+    {
+      "name": "Yu-shu",
+      "lang": "zh-CN"
+    },
+    {
+      "name": "Microsoft David - English (United States)",
+      "lang": "en-US"
+    },
+    {
+      "name": "Microsoft Zira - English (United States)",
+      "lang": "en-US"
+    },
+    {
+      "name": "Microsoft Mark - English (United States)",
+      "lang": "en-US"
+    },
+    {
+      "name": "Microsoft George - English (United Kingdom)",
+      "lang": "en-GB"
+    },
+    {
+      "name": "Microsoft Susan - English (United Kingdom)",
+      "lang": "en-GB"
+    },
+    {
+      "name": "Microsoft Hazel - English (United Kingdom)",
+      "lang": "en-GB"
+    },
+    {
+      "name": "Microsoft Heera - English (India)",
+      "lang": "en-In"
+    },
+    {
+      "name": "Microsoft Irina - Russian (Russia)",
+      "lang": "ru-RU"
+    },
+    {
+      "name": "Microsoft Hedda - German (Germany)",
+      "lang": "de-DE"
+    },
+    {
+      "name": "Microsoft Katja - German (Germany)",
+      "lang": "de-DE"
+    },
+    {
+      "name": "Microsoft Helena - Spanish (Spain)",
+      "lang": "es-ES"
+    },
+    {
+      "name": "Microsoft Laura - Spanish (Spain)",
+      "lang": "es-ES"
+    },
+    {
+      "name": "Microsoft Sabina - Spanish (Mexico)",
+      "lang": "es-MX"
+    },
+    {
+      "name": "Microsoft Julie - French (France)",
+      "lang": "fr-FR"
+    },
+    {
+      "name": "Microsoft Paulina - Polish (Poland)",
+      "lang": "pl-PL"
+    },
+    {
+      "name": "Microsoft Huihui - Chinese (Simplified, PRC)",
+      "lang": "zh-CN"
+    },
+    {
+      "name": "Microsoft Yaoyao - Chinese (Simplified, PRC)",
+      "lang": "zh-CN"
+    },
+    {
+      "name": "Microsoft Tracy - Chinese (Traditional, Hong Kong S.A.R.)",
+      "lang": "zh-CN"
+    },
+    {
+      "name": "Microsoft Elsa - Italian (Italy)",
+      "lang": "it-IT"
+    },
+    {
+      "name": "Microsoft Maria - Portuguese (Brazil)",
+      "lang": "pt-BR"
+    },
+    {
+      "name": "Microsoft Ayumi - Japanese (Japan)",
+      "lang": "ja-JP"
+    },
+    {
+      "name": "Microsoft Haruka - Japanese (Japan)",
+      "lang": "ja-JP"
+    },
+    {
+      "name": "Microsoft Hortense - French (France)",
+      "lang": "fr-FR"
+    },
+    {
+      "name": "Microsoft Hanhan - Chinese (Traditional, Taiwan)",
+      "lang": "zh-TW"
+    },
+    {
+      "name": "Microsoft Heami - Korean (Korean)",
+      "lang": "ko-KR"
+    },
+    {
+      "name": "Microsoft Stefan - German (Germany)",
+      "lang": "de-DE"
+    },
+    {
+      "name": "Microsoft Ravi - English (India)",
+      "lang": "en-IN"
+    },
+    {
+      "name": "Microsoft Pablo - Spanish (Spain)",
+      "lang": "es-ES"
+    },
+    {
+      "name": "Microsoft Raul - Spanish (Mexico)",
+      "lang": "es-MX"
+    },
+    {
+      "name": "Microsoft Paul - French (France)",
+      "lang": "fr-FR"
+    },
+    {
+      "name": "Microsoft Cosimo - Italian (Italy)",
+      "lang": "it-IT"
+    },
+    {
+      "name": "Microsoft Ichiro - Japanese (Japan)",
+      "lang": "ja-JP"
+    },
+    {
+      "name": "Microsoft Adam - Polish (Poland)",
+      "lang": "pl-PL"
+    },
+    {
+      "name": "Microsoft Daniel - Portuguese (Brazil)",
+      "lang": "pt-BR"
+    },
+    {
+      "name": "Microsoft Pavel - Russian (Russia)",
+      "lang": "ru-RU"
+    },
+    {
+      "name": "Microsoft Kangkang - Chinese (Simplified, PRC)",
+      "lang": "zh-CN"
+    },
+    {
+      "name": "Microsoft Danny - Chinese (Traditional, Hong Kong S.A.R.)",
+      "lang": "zh-HK"
+    },
+    {
+      "name": "Microsoft Yating - Chinese (Traditional, Taiwan)",
+      "lang": "zh-TW"
+    },
+    {
+      "name": "Microsoft Zhiwei - Chinese (Traditional, Taiwan)",
+      "lang": "zh-TW"
+    },
+    {
+      "name": "Microsoft Hortense Mobile - French (France)",
+      "lang": "fr-FR"
+    },
+    {
+      "name": "Microsoft Hanhan Mobile - Chinese (Traditional, Taiwan)",
+      "lang": "zh-TW"
+    },
+    {
+      "name": "Microsoft Heami Mobile - Korean (Korean)",
+      "lang": "ko-KR"
+    },
+    {
+      "name": "Microsoft Stefan Mobile - German (Germany)",
+      "lang": "de-DE"
+    },
+    {
+      "name": "Microsoft Ravi Mobile - English (India)",
+      "lang": "en-IN"
+    },
+    {
+      "name": "Microsoft Pablo Mobile - Spanish (Spain)",
+      "lang": "es-ES"
+    },
+    {
+      "name": "Microsoft Raul Mobile - Spanish (Mexico)",
+      "lang": "es-MX"
+    },
+    {
+      "name": "Microsoft Paul Mobile - French (France)",
+      "lang": "fr-FR"
+    },
+    {
+      "name": "Microsoft Cosimo Mobile - Italian (Italy)",
+      "lang": "it-IT"
+    },
+    {
+      "name": "Microsoft Ichiro Mobile - Japanese (Japan)",
+      "lang": "ja-JP"
+    },
+    {
+      "name": "Microsoft Adam Mobile - Polish (Poland)",
+      "lang": "pl-PL"
+    },
+    {
+      "name": "Microsoft Daniel Mobile - Portuguese (Brazil)",
+      "lang": "pt-BR"
+    },
+    {
+      "name": "Microsoft Pavel Mobile - Russian (Russia)",
+      "lang": "ru-RU"
+    },
+    {
+      "name": "Microsoft Kangkang Mobile - Chinese (Simplified, PRC)",
+      "lang": "zh-CN"
+    },
+    {
+      "name": "Microsoft Danny Mobile - Chinese (Traditional, Hong Kong S.A.R.)",
+      "lang": "zh-HK"
+    },
+    {
+      "name": "Microsoft Yating Mobile - Chinese (Traditional, Taiwan)",
+      "lang": "zh-TW"
+    },
+    {
+      "name": "Microsoft Zhiwei Mobile - Chinese (Traditional, Taiwan)",
+      "lang": "zh-TW"
+    },
+    {
+      "name": "Microsoft David Desktop - English (United States)",
+      "lang": "en-US"
+    },
+    {
+      "name": "Microsoft Zira Desktop - English (United States)",
+      "lang": "en-US"
+    },
+    {
+      "name": "Microsoft Mark Desktop - English (United States)",
+      "lang": "en-US"
+    },
+    {
+      "name": "Microsoft George Desktop - English (United Kingdom)",
+      "lang": "en-GB"
+    },
+    {
+      "name": "Microsoft Susan Desktop - English (United Kingdom)",
+      "lang": "en-GB"
+    },
+    {
+      "name": "Microsoft Hazel Desktop - English (United Kingdom)",
+      "lang": "en-GB"
+    },
+    {
+      "name": "Microsoft Heera Desktop - English (India)",
+      "lang": "en-In"
+    },
+    {
+      "name": "Microsoft Irina Desktop - Russian (Russia)",
+      "lang": "ru-RU"
+    },
+    {
+      "name": "Microsoft Hedda Desktop - German (Germany)",
+      "lang": "de-DE"
+    },
+    {
+      "name": "Microsoft Katja Desktop - German (Germany)",
+      "lang": "de-DE"
+    },
+    {
+      "name": "Microsoft Helena Desktop - Spanish (Spain)",
+      "lang": "es-ES"
+    },
+    {
+      "name": "Microsoft Laura Desktop - Spanish (Spain)",
+      "lang": "es-ES"
+    },
+    {
+      "name": "Microsoft Sabina Desktop - Spanish (Mexico)",
+      "lang": "es-MX"
+    },
+    {
+      "name": "Microsoft Julie Desktop - French (France)",
+      "lang": "fr-FR"
+    },
+    {
+      "name": "Microsoft Paulina Desktop - Polish (Poland)",
+      "lang": "pl-PL"
+    },
+    {
+      "name": "Microsoft Huihui Desktop - Chinese (Simplified, PRC)",
+      "lang": "zh-CN"
+    },
+    {
+      "name": "Microsoft Yaoyao Desktop - Chinese (Simplified, PRC)",
+      "lang": "zh-CN"
+    },
+    {
+      "name": "Microsoft Tracy Desktop - Chinese (Traditional, Hong Kong S.A.R.)",
+      "lang": "zh-CN"
+    },
+    {
+      "name": "Microsoft Elsa Desktop - Italian (Italy)",
+      "lang": "it-IT"
+    },
+    {
+      "name": "Microsoft Maria Desktop - Portuguese (Brazil)",
+      "lang": "pt-BR"
+    },
+    {
+      "name": "Microsoft Ayumi Desktop - Japanese (Japan)",
+      "lang": "ja-JP"
+    },
+    {
+      "name": "Microsoft Haruka Desktop - Japanese (Japan)",
+      "lang": "ja-JP"
+    },
+    {
+      "name": "Microsoft Hortense Desktop - French (France)",
+      "lang": "fr-FR"
+    },
+    {
+      "name": "Microsoft Hanhan Desktop - Chinese (Traditional, Taiwan)",
+      "lang": "zh-TW"
+    },
+    {
+      "name": "Microsoft Heami Desktop - Korean (Korean)",
+      "lang": "ko-KR"
+    },
+    {
+      "name": "Microsoft Stefan Desktop - German (Germany)",
+      "lang": "de-DE"
+    },
+    {
+      "name": "Microsoft Ravi Desktop - English (India)",
+      "lang": "en-IN"
+    },
+    {
+      "name": "Microsoft Pablo Desktop - Spanish (Spain)",
+      "lang": "es-ES"
+    },
+    {
+      "name": "Microsoft Raul Desktop - Spanish (Mexico)",
+      "lang": "es-MX"
+    },
+    {
+      "name": "Microsoft Paul Desktop - French (France)",
+      "lang": "fr-FR"
+    },
+    {
+      "name": "Microsoft Cosimo Desktop - Italian (Italy)",
+      "lang": "it-IT"
+    },
+    {
+      "name": "Microsoft Ichiro Desktop - Japanese (Japan)",
+      "lang": "ja-JP"
+    },
+    {
+      "name": "Microsoft Adam Desktop - Polish (Poland)",
+      "lang": "pl-PL"
+    },
+    {
+      "name": "Microsoft Daniel Desktop - Portuguese (Brazil)",
+      "lang": "pt-BR"
+    },
+    {
+      "name": "Microsoft Pavel Desktop - Russian (Russia)",
+      "lang": "ru-RU"
+    },
+    {
+      "name": "Microsoft Kangkang Desktop - Chinese (Simplified, PRC)",
+      "lang": "zh-CN"
+    },
+    {
+      "name": "Microsoft Danny Desktop - Chinese (Traditional, Hong Kong S.A.R.)",
+      "lang": "zh-HK"
+    },
+    {
+      "name": "Microsoft Yating Desktop - Chinese (Traditional, Taiwan)",
+      "lang": "zh-TW"
+    },
+    {
+      "name": "Microsoft Zhiwei Desktop - Chinese (Traditional, Taiwan)",
+      "lang": "zh-TW"
+    },
+    {
+      "name": "Martin",
+      "lang": "de-DE"
+    },
+    {
+      "name": "Daniel",
+      "lang": "fr-FR"
+    },
+    {
+      "name": "Hattori",
+      "lang": "ja-JP"
+    },
+    {
+      "name": "Li-mu",
+      "lang": "zh-CN"
+    },
+    {
+      "name": "Gordon",
+      "lang": "en-AU"
+    },
+    {
+      "name": "Aaron",
+      "lang": "en-US"
+    },
+    {
+      "name": "Nicky",
+      "lang": "en-US"
+    },
+    {
+      "name": "Microsoft Hanhan Desktop - Chinese (Taiwan)",
+      "lang": "zh-TW"
+    },
+    {
+      "name": "Microsoft Heami Desktop - Korean",
+      "lang": "ko-KR"
+    },
+    {
+      "name": "Fallback Australian Male",
+      "lang": "en-AU",
+      "fallbackvoice": true,
+      "service": "g3",
+      "gender": "male"
+    },
+    {
+      "name": "Fallback Russian Male",
+      "lang": "ru",
+      "fallbackvoice": true,
+      "service": "g3",
+      "gender": "male"
+    },
+    {
+      "name": "Fallback Arabic Male",
+      "lang": "ar",
+      "fallbackvoice": true,
+      "service": "g3",
+      "gender": "male"
+    },
+    {
+      "name": "Fallback Chinese",
+      "lang": "zh-CN",
+      "fallbackvoice": true,
+      "service": "g3",
+      "gender": "male"
+    },
+    {
+      "name": "Fallback Chinese HK",
+      "lang": "zh-HK",
+      "fallbackvoice": true,
+      "service": "g3",
+      "gender": "male"
+    },
+    {
+      "name": "Fallback Chinese TW",
+      "lang": "zh-TW",
+      "fallbackvoice": true,
+      "service": "g3",
+      "gender": "male"
+    },
+    {
+      "name": "Fallback French Male",
+      "lang": "fr",
+      "fallbackvoice": true,
+      "service": "g3",
+      "gender": "male"
+    },
+    {
+      "name": "Fallback Deutsch Male",
+      "lang": "de",
+      "fallbackvoice": true,
+      "service": "g3",
+      "gender": "male"
+    },
+    {
+      "name": "Fallback Hindi Male",
+      "lang": "hi",
+      "fallbackvoice": true,
+      "service": "g3",
+      "gender": "male"
+    },
+    {
+      "name": "Fallback Indonesian Male",
+      "lang": "id",
+      "fallbackvoice": true,
+      "service": "g3",
+      "gender": "male"
+    },
+    {
+      "name": "Fallback Japanese Male",
+      "lang": "ja",
+      "fallbackvoice": true,
+      "service": "g3",
+      "gender": "male"
+    },
+    {
+      "name": "Fallback Korean Male",
+      "lang": "ko",
+      "fallbackvoice": true,
+      "service": "g3",
+      "gender": "male"
+    },
+    {
+      "name": "Fallback Polish Male",
+      "lang": "pl",
+      "fallbackvoice": true,
+      "service": "g1",
+      "gender": "male"
+    },
+    {
+      "name": "Fallback Brazilian Portuguese Male",
+      "lang": "pt-BR",
+      "fallbackvoice": true,
+      "service": "g3",
+      "gender": "male"
+    },
+    {
+      "name": "Fallback Portuguese Male",
+      "lang": "pt-PT",
+      "fallbackvoice": true,
+      "service": "g1",
+      "gender": "male"
+    },
+    {
+      "name": "Fallback Spanish Male",
+      "lang": "es",
+      "fallbackvoice": true,
+      "service": "g3",
+      "gender": "male"
+    },
+    {
+      "name": "Fallback Spanish (Latin American) Male",
+      "lang": "es-419",
+      "fallbackvoice": true,
+      "service": "g3",
+      "gender": "male"
+    },
+    {
+      "name": "Fallback Thai Male",
+      "lang": "th",
+      "fallbackvoice": true,
+      "service": "g3",
+      "gender": "male"
+    },
+    {
+      "name": "Fallback Turkish Male",
+      "lang": "tr",
+      "fallbackvoice": true,
+      "service": "g3",
+      "gender": "male"
+    },
+    {
+      "name": "Fallback Vietnamese Female",
+      "lang": "vi",
+      "fallbackvoice": true,
+      "service": "g1",
+      "gender": "female"
+    },
+    {
+      "name": "Fallback Italian Male",
+      "lang": "it",
+      "fallbackvoice": true,
+      "service": "g3",
+      "gender": "male"
+    },
+    {
+      "name": "Fallback Dutch Male",
+      "lang": "nl",
+      "fallbackvoice": true,
+      "timerSpeed": 0,
+      "service": "g3",
+      "gender": "male"
+    },
+    {
+      "name": "Microsoft Anna - English (United States)",
+      "lang": "en-US",
+      "gender": "female"
+    },
+    {
+      "name": "Microsoft Lili - Chinese (China)",
+      "lang": "zh-CN",
+      "gender": "female"
+    },
+    {
+      "name": "Bangla Bangladesh",
+      "lang": "bn_BD",
+      "gender": "male"
+    },
+    {
+      "name": "Bangla India",
+      "lang": "bn_IN",
+      "gender": "male"
+    },
+    {
+      "name": "Czech Czechia",
+      "lang": "cs_CZ",
+      "gender": "female"
+    },
+    {
+      "name": "Danish Denmark",
+      "lang": "da_DK",
+      "gender": "female"
+    },
+    {
+      "name": "Greek Greece",
+      "lang": "el_GR",
+      "gender": "female"
+    },
+    {
+      "name": "English Australia",
+      "lang": "en_AU",
+      "gender": "female"
+    },
+    {
+      "name": "Estonian Estonia",
+      "lang": "et_EE",
+      "gender": "male"
+    },
+    {
+      "name": "Finnish Finland",
+      "lang": "fi_FI",
+      "gender": "female"
+    },
+    {
+      "name": "Filipino Philippines",
+      "lang": "fil_PH",
+      "gender": "female"
+    },
+    {
+      "name": "French Canada",
+      "lang": "fr_CAF",
+      "gender": "female"
+    },
+    {
+      "name": "Hungarian Hungary",
+      "lang": "hu_HU",
+      "gender": "female"
+    },
+    {
+      "name": "Khmer Cambodia",
+      "lang": "km_KH",
+      "gender": "female"
+    },
+    {
+      "name": "Norwegian Bokmål Norway",
+      "lang": "nb_NO",
+      "gender": "female"
+    },
+    {
+      "name": "Nepali Nepal",
+      "lang": "ne_NP",
+      "gender": "female"
+    },
+    {
+      "name": "Romanian Romania",
+      "lang": "ro_RO",
+      "gender": "female"
+    },
+    {
+      "name": "Sinhala Sri Lanka",
+      "lang": "si_LK",
+      "gender": "female"
+    },
+    {
+      "name": "Slovak Slovakia",
+      "lang": "sk_SK",
+      "gender": "female"
+    },
+    {
+      "name": "Swedish Sweden",
+      "lang": "sv_SE",
+      "gender": "female"
+    },
+    {
+      "name": "Ukrainian Ukraine",
+      "lang": "uk_UA",
+      "gender": "female"
+    },
+    {
+      "name": "Vietnamese Vietnam",
+      "lang": "vi_VN",
+      "gender": "female"
+    },
+    {
+      "name": "Cantonese Hong Kong",
+      "lang": "yue_HK_#Hant",
+      "gender": "female"
+    },
+    {
+      "name": "Microsoft Server Speech Text to Speech Voice (en-US, Guy24kRUS)",
+      "lang": "en-US",
+      "gender": "male"
+    },
+    {
+      "name": "Microsoft Server Speech Text to Speech Voice (en-US, Jessa24kRUS)",
+      "lang": "en-US",
+      "gender": "female"
+    },
+    {
+      "name": "Microsoft Server Speech Text to Speech Voice (en-US, JessaRUS)",
+      "lang": "en-US",
+      "gender": "female"
+    },
+    {
+      "name": "Microsoft Server Speech Text to Speech Voice (en-US, ZiraRUS)",
+      "lang": "en-US",
+      "gender": "female"
+    },
+    {
+      "name": "Fallback Bangla Bangladeh Female",
+      "lang": "bn-BD",
+      "fallbackvoice": true,
+      "timerSpeed": 0,
+      "service": "g3",
+      "gender": "female"
+    },
+    {
+      "name": "Fallback Bangla Bangladeh Male",
+      "lang": "bn-BD",
+      "fallbackvoice": true,
+      "timerSpeed": 0,
+      "service": "g3",
+      "gender": "male"
+    },
+    {
+      "name": "Fallback Filipino Female",
+      "lang": "fil-PH",
+      "fallbackvoice": true,
+      "timerSpeed": 0,
+      "service": "g3",
+      "gender": "female"
+    },
+    {
+      "name": "Fallback Filipino Male",
+      "lang": "fil-PH",
+      "fallbackvoice": true,
+      "timerSpeed": 0,
+      "service": "g3",
+      "gender": "male"
+    },
+    {
+      "name": "Fallback Cambodian Khmer Female",
+      "lang": "km-KH",
+      "fallbackvoice": true,
+      "timerSpeed": 0,
+      "service": "g3",
+      "gender": "female"
+    },
+    {
+      "name": "Fallback Cambodian Khmer Male",
+      "lang": "km-KH",
+      "fallbackvoice": true,
+      "timerSpeed": 0,
+      "service": "g3",
+      "gender": "male"
+    },
+    {
+      "name": "Fallback Nepali Female",
+      "lang": "ne-NP",
+      "fallbackvoice": true,
+      "timerSpeed": 0,
+      "service": "g3",
+      "gender": "female"
+    },
+    {
+      "name": "Fallback Sinhala Female",
+      "lang": "si-LK",
+      "fallbackvoice": true,
+      "timerSpeed": 0,
+      "service": "g3",
+      "gender": "female"
+    },
+    {
+      "name": "Fallback Ukrainian Female",
+      "lang": "uk-UA",
+      "fallbackvoice": true,
+      "timerSpeed": 0,
+      "service": "g3",
+      "gender": "female"
+    },
+    {
+      "name": "Fallback Cantonese Hong Kong Female",
+      "lang": "yue-HK",
+      "fallbackvoice": true,
+      "timerSpeed": 0,
+      "service": "g3",
+      "gender": "female"
+    },
+    {
+      "name": "Fallback Cantonese Hong Kong Male",
+      "lang": "yue-HK",
+      "fallbackvoice": true,
+      "timerSpeed": 0,
+      "service": "g3",
+      "gender": "male"
+    },
+    {
+      "name": "Fallback Estonian Male",
+      "lang": "et-EE",
+      "fallbackvoice": true,
+      "timerSpeed": 0,
+      "service": "g3",
+      "gender": "male"
+    },
+    {
+      "name": "Fallback Bangla India Female",
+      "lang": "bn-IN",
+      "fallbackvoice": true,
+      "timerSpeed": 0,
+      "service": "g3",
+      "gender": "female"
+    },
+    {
+      "name": "Fallback Bangla India Male",
+      "lang": "bn-IN",
+      "fallbackvoice": true,
+      "timerSpeed": 0,
+      "service": "g3",
+      "gender": "male"
+    },
+    {
+      "name": "Fallback French Canadian Female",
+      "lang": "fr-CA",
+      "fallbackvoice": true,
+      "timerSpeed": 0,
+      "service": "g3",
+      "gender": "female"
+    },
+    {
+      "name": "Fallback French Canadian Male",
+      "lang": "fr-CA",
+      "fallbackvoice": true,
+      "timerSpeed": 0,
+      "service": "g3",
+      "gender": "male"
+    },
+    {
+      "name": "Fallback Tamil",
+      "lang": "ta",
+      "fallbackvoice": true,
+      "service": "g1",
+      "gender": "female"
+    }
+  ]
+}

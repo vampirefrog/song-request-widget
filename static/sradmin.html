@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link rel="stylesheet" href="style.css">
+		<link rel="stylesheet" href="player.css">
+		<script src="util.js"></script>
+		<script src="messages.js"></script>
+
+		<script src="eventemitter.js" type="text/javascript"></script>
+		<script src="chatsocket.js" type="text/javascript"></script>
+
+		<script src="player.js" type="text/javascript"></script>
+		<script src="sr.js" type="text/javascript"></script>
+	</head>
+	<body>
+		<div id="messages" style="position: absolute; left: 0; top: 0; bottom: 0; right: 0; overflow: auto; color: white"></div>
+
+		<div class="halfwidth-responsive">
+			<div id="player">
+				<div id="controls">
+					<button type="button" id="pause" style="display: none" onclick="pauseSong()">⏸</button>
+					<button type="button" id="play" onclick="playSong()">▶</button>
+					<button type="button" id="next" onclick="nextSong()">⏭</button>
+					<input type="range" min="0" max="100" value="20" id="volume" oninput="setVolume(this.value)">
+					<button type="button" id="ban" onclick="banCurSong()">Ban</button>
+				</div>
+				<div id="curSong" class="song">
+					<div class="song-details">
+						<div class="song-title"></div>
+						<div class="song-requester"></div>
+					</div>
+					<div style="clear: both"></div>
+				</div>
+			</div>
+		</div>
+
+		<div class="halfwidth-responsive">
+			<h2>Playing next:</h2>
+			<div id="playlist">
+				<div class="song">
+					<div class="song-thumbnail">#thumbnail#</div>
+					<div class="song-details">
+						<div class="song-title">#current song#</div>
+						<button type="button" class="song-delete" onclick="deleteSong(event.target)">Delete</button>
+						<div class="song-requester">#requester#</div>
+					</div>
+					<div style="clear: both"></div>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>
